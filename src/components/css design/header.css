@@ -1,0 +1,27 @@
+.headerrow{
+    background-color: black;
+    color: white; 
+    box-sizing: border-box;
+
+}
+
+
+  .linkcontain{
+    /* border: 1px solid red; */
+    float: left;
+    box-sizing: border-box;
+    margin-top: 2%;
+  }
+  .linkcontain1{
+    float: left;
+    
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.linkcontain2{
+    float: left;
+    box-sizing: border-box;
+    /* margin-top: 5%; */
+    /* border: 1px solid red; */
+    
+}

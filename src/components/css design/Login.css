@@ -1,0 +1,38 @@
+.wrapper{
+    background-color: white;
+    /* border: 2px gloove black; */
+    position: relative;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    padding: 2%; 
+    overflow: hidden;  
+}   
+.img{
+   /* border: 1px solid black;  */
+  /* height: 40px; */
+  width:60%;
+  margin-left: 12%;
+  padding-left: 20%;
+  padding-bottom: 2%;
+}
+.textField{
+   align-items: center; 
+}
+
+.inputField:hover{
+  background-color: #dddd;
+}
+
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+.signuplink{
+  float: right;
+}
+
+.signin{
+  float: right;
+}

@@ -1,0 +1,33 @@
+.basecol{
+    
+    float: left;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: #92F90D;
+    padding: 4px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 10px;
+    outline-width: 0px;
+  }
+
+  
+  
+  .wrapper{
+    border-bottom: 3px groove lightgrey;
+    padding-bottom: 20px;
+    padding-top: 10px;
+  }
+  
+  .cartHead{
+    padding: 5px;
+    text-align: center;
+    border-bottom: 3px groove lightgrey;
+
+  }
